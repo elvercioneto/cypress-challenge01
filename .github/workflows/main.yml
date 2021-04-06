@@ -34,7 +34,7 @@ jobs:
     #instalando as dependencias
     - run: npm install
     # executando os testes
-    - run: npm run cy:run
+    - run: npx cypress run
       continue-on-error: true
     # gerando o relatorio em html
     - run: npm run report:mocha
