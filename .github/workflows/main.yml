@@ -22,8 +22,7 @@ jobs:
     strategy:
       matrix:
         node-version: [12.x]
-        
-		      # Steps represent a sequence of tasks that will be executed as part of the job
+    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
     # Checks-out do código do projeto
     - uses: actions/checkout@v2
