@@ -35,6 +35,7 @@ jobs:
     - run: npm install
     # executando os testes
     - run: npm run cy:run
+      continue-on-error: true
     # gerando o relatorio em html
     - run: npm run report:mocha
     # publicando relatorio em html
