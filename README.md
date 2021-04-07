@@ -1,4 +1,4 @@
- # Agilizei Bootcampo - Cypress - Módulo 1
+ # Agilizei Bootcamp - Cypress - Módulo 1
  # Desafio 1 
 Chegou a hora de exercitar mais um pouco para fixar os conceitos aprendidos até aqui.
 
